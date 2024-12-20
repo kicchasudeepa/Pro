@@ -1,0 +1,5 @@
+title: "My Awesome Website"
+description: "A site hosted on GitHub Pages"
+theme: jekyll-theme-primer # Choose the theme you like
+baseurl: "" # Leave blank for a root domain
+url: "https://github.com/kicchasudeepa/" # Replace with your GitHub Pages URL
